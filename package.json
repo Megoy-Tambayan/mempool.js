@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "axios": "0.24.0",
-    "ws": "8.3.0"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@types/node": "^14.14.25",
