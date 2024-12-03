@@ -36,7 +36,7 @@
     "../lib/**/*"
   ],
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.7.8",
     "ws": "^7.4.3"
   },
   "devDependencies": {
